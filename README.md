@@ -23,7 +23,7 @@
   <img src="sources/icon/tg.png" width="50" alt="Telegram">
   
 </div>
-<div align="center">
+
   - **Python 3.9+** - язык программирования
   - **Selenium WebDriver** - автоматизация браузера
   - **Selene** - удобная обертка над Selenium
@@ -31,7 +31,7 @@
   - **Allure** - генератор отчетов
   - **Jenkins** - система непрерывной интеграции
   - **Selenoid** - контейнеризованный запуск браузеров
-</div>
+
 ## 📂 Структура проекта
 
 ```
@@ -73,16 +73,23 @@
 
 
 **Ссылка на сборку**:  
+[jenkins](https://jenkins.autotests.cloud/job/store_finfleo/)
 
 **Особенности пайплайна**:
 - Автоматический запуск тестов в Selenoid
 - Генерация Allure-отчёта
 - Отправка уведомлений в Telegram
 
+
 **Пример отчёта**:  
 [(https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)](https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)
 
-![img_2.png](img_2.png)
+<div align="center">
+  
+  <img src="sources/screenshots/allure_res1.png" width="300"> 
+  <img src="sources/screenshots/allure_res2.png" width="300"> 
+  
+</div>
 
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
 **Отбика прогонов с уведомлением в ТГ**:  
