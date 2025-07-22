@@ -90,18 +90,19 @@
   
 </div>
 
-### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
+
+  
+  <video src="https://github.com/user-attachments/assets/f8a0e963-0c33-4391-872d-fed39e6ccf8f" width="300">
+    
+  <video src="https://github.com/user-attachments/assets/feb82f8f-fb20-49ad-833c-34d722351e5c" width="300">
+    
+  <video src="https://github.com/user-attachments/assets/b92a19db-0d10-486b-bfd0-f0c947a6ca3b" width="300">
+  
 
 
-<div align="center">
-  
-  <img src="sources/video/submit.mp4" width="300"> 
-  <img src="sources/video/search_bar.mp4" width="300"> 
-  <img src="sources/video/added_merge_in_basket.mp4" width="300"> 
-  
-</div>
 -------
 
+### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
 **Отбика прогонов с уведомлением в ТГ**:  
 [Отбивка прогонов автотестов](https://t.me/+2XQAhYNunURkN2Uy)
 <div align="center">
