@@ -20,6 +20,8 @@ def load_env():
 
 @pytest.fixture(scope='function', autouse=True)
 def setup_browser(request):
+    browser.config.window_width=1920
+    browser.config.window_height=1080
     browser_version = request.config.getoption('--browser_version')
     options = Options()
     selenoid_capabilities = {
