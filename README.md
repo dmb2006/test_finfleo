@@ -1,3 +1,4 @@
+
 # Автоматизированные UI-тесты для страницы finfleo
 
 ## 📌 О проекте
@@ -22,16 +23,51 @@
   <img src="sources/icon/tg.png" width="50" alt="Telegram">
   
 </div>
-
-- **Python 3.9+** - язык программирования
-- **Selenium WebDriver** - автоматизация браузера
-- **Selene** - удобная обертка над Selenium
-- **Pytest** - фреймворк для тестирования
-- **Allure** - генератор отчетов
-- **Jenkins** - система непрерывной интеграции
-- **Selenoid** - контейнеризованный запуск браузеров
-
+<div align="center">
+  - **Python 3.9+** - язык программирования
+  - **Selenium WebDriver** - автоматизация браузера
+  - **Selene** - удобная обертка над Selenium
+  - **Pytest** - фреймворк для тестирования
+  - **Allure** - генератор отчетов
+  - **Jenkins** - система непрерывной интеграции
+  - **Selenoid** - контейнеризованный запуск браузеров
+</div>
 ## 📂 Структура проекта
+
+```
+.
+├── .venv
+├── model
+│   ├── data
+│   │   └── users.py
+├── finfleo_page
+│   ├── added_bascet_merge.py
+│   ├── main_page_submit.py
+│   └── search_bar.py
+├── sources
+│   ├── icon
+│   │   ├── allure_report.png
+│   │   ├── allure_testops.png
+│   │   ├── pytest.png
+│   │   ├── python-original.svg
+│   │   ├── selene.png
+│   │   ├── selenoid.png
+│   │   └── tg.png
+├── tests
+│   ├── allure_results
+│   ├── test_added_in_basket_merch.py
+│   ├── test_main_page_submit.py
+│   └── test_search_bar.py
+├── utils
+│   └── attach.py
+├── .env
+├── .gitignore
+├── allure-notifications-4.9.0.jar
+├── confest.py
+├── pytest.ini
+├── README.md
+└── requirements.txt
+```
 
 ## 🌐 CI/CD и Мониторинг
 
@@ -44,11 +80,11 @@
 - Отправка уведомлений в Telegram
 
 **Пример отчёта**:  
-[https://jenkins.autotests.cloud/job/homework_forteen_ANikashova/4/allure/](https://jenkins.autotests.cloud/job/homework_forteen_ANikashova/4/allure/)
+[(https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)](https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)
 
 ![img_2.png](img_2.png)
 
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
-**Бот для уведомлений**:  
-[@homework_13_Nikashova_bot](https://t.me/homework_13_Nikashova_bot)
+**Отбика прогонов с уведомлением в ТГ**:  
+[Отбивка прогонов автотестов](https://t.me/+2XQAhYNunURkN2Uy)
 ![img_1.png](img_1.png)
