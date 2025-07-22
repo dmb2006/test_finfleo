@@ -90,15 +90,7 @@
   
 </div>
 
-
-  
   <video src="https://github.com/user-attachments/assets/f8a0e963-0c33-4391-872d-fed39e6ccf8f" width="300">
-    
-  <video src="https://github.com/user-attachments/assets/feb82f8f-fb20-49ad-833c-34d722351e5c" width="300">
-    
-  <video src="https://github.com/user-attachments/assets/b92a19db-0d10-486b-bfd0-f0c947a6ca3b" width="300">
-  
-
 
 -------
 
