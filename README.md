@@ -1,11 +1,4 @@
-# Автоматизированные UI-тесты
-![Pycharm](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />)
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />)
-![Selenium](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />)
-![Jenkins](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />)
-![Selenoid](https://raw.githubusercontent.com/lkuff/software_product_project/11130cf00eec0795c3edb9bf227eefe734a1f845/images/logo/Selenoid.svg)
-![Pytest](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />)
-![Allure](https://img.shields.io/badge/allure-2.13.5-orange.svg)
+# Автоматизированные UI-тесты для страницы finfleo
 
 ## 📌 О проекте
 
@@ -15,6 +8,11 @@
 - Проверка через поисковую строку спецтехники которой нет в наличии с проверкой 
 
 ## 🛠 Технологический стек
+
+<p> align="center">
+  <img src="sources/icon/python-original.svg" width="50"> <img src="media/icons/pytest.png" width="50"> <img src="media/icons/selene.png" width="50"> <img src="media/icons/selenoid.png" width="50"> <img src="media/icons/jenkins.png" width="50"> <img   src="media/icons/allure_report.png" width="50"> <img src="media/icons/allure_testops.png" width="50"> <img src="media/icons/jira.png" width="50"> <img src="media/icons/tg.png" width="50">
+</p>
+
 
 - **Python 3.9+** - язык программирования
 - **Selenium WebDriver** - автоматизация браузера
