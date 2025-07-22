@@ -87,11 +87,25 @@
 <div align="center">
   
   <img src="sources/screenshots/allure_res1.png" width="300"> 
-  <img src="sources/screenshots/allure_res2.png" width="300"> 
   
 </div>
 
 ### <img src="https://telegram.org/img/t_logo.png" width="20"> Telegram Bot
+
+
+<div align="center">
+  
+  <img src="sources/video/submit.mp4" width="300"> 
+  <img src="sources/video/search_bar.mp4" width="300"> 
+  <img src="sources/video/added_merge_in_basket.mp4" width="300"> 
+  
+</div>
+-------
+
 **Отбика прогонов с уведомлением в ТГ**:  
 [Отбивка прогонов автотестов](https://t.me/+2XQAhYNunURkN2Uy)
-![img_1.png](img_1.png)
+<div align="center">
+  
+  <img src="sources/screenshots/allure_res2.png" width="300">
+  
+</div>
