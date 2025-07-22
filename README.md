@@ -9,10 +9,19 @@
 
 ## 🛠 Технологический стек
 
-<p> align="center">
-  <img src="sources/icon/python-original.svg" width="50"> <img src="media/icons/pytest.png" width="50"> <img src="media/icons/selene.png" width="50"> <img src="media/icons/selenoid.png" width="50"> <img src="media/icons/jenkins.png" width="50"> <img   src="media/icons/allure_report.png" width="50"> <img src="media/icons/allure_testops.png" width="50"> <img src="media/icons/jira.png" width="50"> <img src="media/icons/tg.png" width="50">
-</p>
-
+<div align="center">
+  
+  <img src="sources/icon/python-original.svg" width="50" alt="Python"> 
+  <img src="sources/icon/pytest.png" width="50" alt="Pytest"> 
+  <img src="sources/icon/selene.png" width="50" alt="Selene"> 
+  <img src="sources/icon/selenoid.png" width="50" alt="Selenoid"> 
+  <img src="sources/icon/jenkins.png" width="50" alt="Jenkins"> 
+  <img src="sources/icon/allure_report.png" width="50" alt="Allure Report"> 
+  <img src="sources/icon/allure_testops.png" width="50" alt="Allure TestOps"> 
+  <img src="sources/icon/jira.png" width="50" alt="Jira"> 
+  <img src="sources/icon/tg.png" width="50" alt="Telegram">
+  
+</div>
 
 - **Python 3.9+** - язык программирования
 - **Selenium WebDriver** - автоматизация браузера
