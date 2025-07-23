@@ -71,7 +71,7 @@
 
 <div align="center">
   
-  <img src="sources/gif/added_merge_in_basket.gif" width="300"> 
+  <img src="sources/gif/added_merge.gif" width="300"> 
   <img src="sources/gif/search_bar.gif" width="300"> 
   <img src="sources/gif/submit.gif" width="300"> 
   
