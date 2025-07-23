@@ -67,6 +67,14 @@
 └── requirements.txt
 ```
 
+## :rocket: Для запуска из терминала необходимо выполнить команду
+```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest tests
+```
+
 ## 🌐 CI/CD и Мониторинг
 
 <div align="center">
