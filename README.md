@@ -18,8 +18,6 @@
   <img src="sources/icon/selenoid.png" width="50" alt="Selenoid"> 
   <img src="sources/icon/jenkins.png" width="50" alt="Jenkins"> 
   <img src="sources/icon/allure_report.png" width="50" alt="Allure Report"> 
-  <img src="sources/icon/allure_testops.png" width="50" alt="Allure TestOps"> 
-  <img src="sources/icon/jira.png" width="50" alt="Jira"> 
   <img src="sources/icon/tg.png" width="50" alt="Telegram">
   
 </div>
@@ -71,6 +69,13 @@
 
 ## 🌐 CI/CD и Мониторинг
 
+<div align="center">
+  
+  <img src="sources/gif/added_merge_in_basket.gif" width="300"> 
+  <img src="sources/gif/search_bar.gif" width="300"> 
+  <img src="sources/gif/submit.gif" width="300"> 
+  
+</div>
 
 **Ссылка на сборку**:  
 [jenkins](https://jenkins.autotests.cloud/job/store_finfleo/)
@@ -81,16 +86,15 @@
 - Отправка уведомлений в Telegram
 
 
+
 **Пример отчёта**:  
 [(https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)](https://jenkins.autotests.cloud/job/store_finfleo/4/allure/)
 
-<div align="center">
-  
-  <img src="sources/screenshots/allure_res1.png" width="300"> 
-  
-</div>
 
-  <video src="https://github.com/user-attachments/assets/f8a0e963-0c33-4391-872d-fed39e6ccf8f" width="300">
+<img src="sources/screenshots/info.png" width="300"> 
+<img src="sources/screenshots/allure_info.png" width="300"> 
+
+  
 
 -------
 
@@ -99,6 +103,6 @@
 [Отбивка прогонов автотестов](https://t.me/+2XQAhYNunURkN2Uy)
 <div align="center">
   
-  <img src="sources/screenshots/allure_res2.png" width="300">
+  <img src="sources/screenshots/finfleo_done.png" width="300">
   
 </div>
